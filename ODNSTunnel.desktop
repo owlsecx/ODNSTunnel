@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ODNSTunnel
+Comment=DNS Tunnel Detector
+Exec=ODNSTunnel
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=ONet;
